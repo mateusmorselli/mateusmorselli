@@ -1,22 +1,19 @@
 ### Olá 👋
 
 
-###### Sobre o Pedro
-7 anos de experiência no desenvolvimento de projetos com o uso de diversas tecnologias, para desenvolvimento mobile, web, automações e outros.
+###### Sobre o Mateus
+Engenheiro de Produção - Software
 
 ### Detalhes
 
-[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=pedrogithub1406&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
-
-### Projetos
-
-[![Readme Card](httpsgithub-readme-stats.vercel.appapipinusername=githubjavascriptebac&repo=variavel&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mateusmorselli&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> |
 
 ### Linguagens utilizadas
 
-[![Top Langs](httpsgithub-readme-stats.vercel.appapitop-langsusername=githubjavascriptebac&layout=compact)](httpsgithub.comanuraghazragithub-readme-stats)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusmorselli&layout=compact&theme=buefy&hide_border=true" /></a> |
 
+### Projetos
 
-### Contatos
-
-[img src='httpsimg.shields.iobadgeLinkedIn-0077B5style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'](httpswww.linkedin.cominpedrobrocaldi)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mateusmorselli&repo=site-chess&theme=buefy" />
+</a>
