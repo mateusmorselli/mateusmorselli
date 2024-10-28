@@ -17,3 +17,12 @@ Engenheiro de Produção - Software
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mateusmorselli&repo=site-chess&theme=buefy" />
 </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mateusmorselli&repo=projeto-front-end1&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mateusmorselli&repo=projeto-site&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mateusmorselli&repo=exercicio_css&theme=buefy" />
+</a>
